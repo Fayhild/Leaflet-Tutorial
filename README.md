@@ -594,13 +594,13 @@ Well done! Thanks to your help, Alice was able to get to the cable car by taking
 
 You now have all the tools to work with Leaflet. Feel free to modify the map of Grenoble or create your own! Leaflet has a wide range of features that weren't covered in this tutorial, so stay curious and make good use of the documentation: https://leafletjs.com/reference.html
 
-If, for any reason, you encountered difficulties completing any step of the tutorial, don’t worry! The source code is available for download [here](commingsoon).
+If, for any reason, you encountered difficulties completing any step of the tutorial, don’t worry! The source code is available for download [here](https://github.com/Fayhild/Leaflet-Tutorial/archive/refs/heads/main.zip).
 
 # Contact
 
 If you have any questions, suggestions, or run into any issues, feel free to contact me: <br>
 📧 **Email** : [gabriel.schaal27@gmail.com](mailto:gabriel.schaal27@gmail.com)  
-🐛 **Issues** : You can also open an [issue](https://github.com/Fayhild/?/issues) on the GitHub repository.
+🐛 **Issues** : You can also open an [issue](https://github.com/Fayhild/Leaflet-Tutorial/issues) on the GitHub repository.
 
 # Sitography
 
