@@ -2,7 +2,7 @@
 
 Welcome! In this tutorial, you’ll learn how to create interactive maps using **Leaflet.js**. <br> Alice, a Grenoble resident, wants to showcase her city’s landmarks on a map. Let’s join her on this journey and build a map together!
 
-⌚ Time required : ~ 1 hour
+**⌚ Time required : ~ 1 hour**
 
 ## Prerequisites
 
