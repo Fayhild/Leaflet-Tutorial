@@ -4,6 +4,8 @@ Welcome! In this tutorial, you’ll learn how to create interactive maps using *
 
 **⌚ Time required : ~ 30 minutes**
 
+An overview of the final result is available by (https://fayhild.github.io/Leaflet-Tutorial/)[clicking here].
+
 ## Prerequisites
 
 Before we start, make sure you have:
